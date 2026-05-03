@@ -13,18 +13,23 @@ Một ứng dụng Flutter tối giản và mạnh mẽ để quản lý các gh
 ## Screenshots
 
 * Màn hình Home chưa có note
+
 ![Home](./screenshots/home.png)
 
 * Màn hình Home có danh sách note
+
 ![List note](./screenshots/list_note.png)
 
 * Màn hình tạo note mới
+
 ![New](./screenshots/new.png)
 
 * Màn hình sửa note
+
 ![Edit](./screenshots/edit.png)
 
 * Dialog xóa note
+
 ![Delete](./screenshots/dialog_delete.png)
 
 ## Công nghệ sử dụng
